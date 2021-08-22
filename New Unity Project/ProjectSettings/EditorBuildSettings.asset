@@ -6,6 +6,30 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/0Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/0Scenes/0 Instruction.unity
+    guid: eead60f89c83e4fb78e43c565b73d97b
+  - enabled: 1
+    path: Assets/0Scenes/1 Loading.unity
+    guid: 224e913e2de794ce0af257e99bb177a0
+  - enabled: 1
+    path: Assets/0Scenes/2 MainMenu.unity
+    guid: 8cb7df877f21f4c65a1250203f056976
+  - enabled: 1
+    path: Assets/0Scenes/3 Home.unity
+    guid: b6e6cd501478640ea8ed37dfe164e90d
+  - enabled: 1
+    path: Assets/0Scenes/4 Tutorial.unity
+    guid: 15a692f77ba47426dab07c9dce59c0f4
+  - enabled: 1
+    path: Assets/0Scenes/Country1-South Korea.unity
+    guid: d4e9264b82de54f3eb3af895ed80bfa8
+  - enabled: 1
+    path: Assets/0Scenes/Country2-China.unity
+    guid: b88c2afb575b640e282fcbed23f0f8f1
+  - enabled: 1
+    path: Assets/0Scenes/Country3-Japan.unity
+    guid: 8e4cb0875e92b4a5791950cba4806913
+  - enabled: 1
+    path: Assets/0Scenes/Country4-America.unity
+    guid: c938061128781484abc6946c6f552b81
   m_configObjects: {}

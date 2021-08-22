@@ -1,6 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: /Users/hwanjoo/Desktop/New Unity Project/Packages/manifest.json
+    m_FilePath: /Users/hwanjoo/Desktop/Game-Development/New Unity Project/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -8,12 +8,12 @@ m_ProjectFiles:
       ticks: 637635681250000000
     m_Hash: 3691566594
   m_LockFileStatus:
-    m_FilePath: /Users/hwanjoo/Desktop/New Unity Project/Packages/packages-lock.json
+    m_FilePath: /Users/hwanjoo/Desktop/Game-Development/New Unity Project/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637635681260000000
+      ticks: 637651235270000000
     m_Hash: 3311331022
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -25,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.9
       source: 1
-      resolvedPath: /Users/hwanjoo/Desktop/New Unity Project/Library/PackageCache/com.unity.collab-proxy@1.3.9
+      resolvedPath: /Users/hwanjoo/Desktop/Game-Development/New Unity Project/Library/PackageCache/com.unity.collab-proxy@1.3.9
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -127,7 +127,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.1.1
       source: 1
-      resolvedPath: /Users/hwanjoo/Desktop/New Unity Project/Library/PackageCache/com.unity.connect.share@4.1.1
+      resolvedPath: /Users/hwanjoo/Desktop/Game-Development/New Unity Project/Library/PackageCache/com.unity.connect.share@4.1.1
       assetPath: Packages/com.unity.connect.share
       name: com.unity.connect.share
       displayName: WebGL Publisher
@@ -240,7 +240,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.1
       source: 1
-      resolvedPath: /Users/hwanjoo/Desktop/New Unity Project/Library/PackageCache/com.unity.ide.rider@1.2.1
+      resolvedPath: /Users/hwanjoo/Desktop/Game-Development/New Unity Project/Library/PackageCache/com.unity.ide.rider@1.2.1
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -347,7 +347,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.5
       source: 1
-      resolvedPath: /Users/hwanjoo/Desktop/New Unity Project/Library/PackageCache/com.unity.ide.visualstudio@2.0.5
+      resolvedPath: /Users/hwanjoo/Desktop/Game-Development/New Unity Project/Library/PackageCache/com.unity.ide.visualstudio@2.0.5
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -422,7 +422,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-      resolvedPath: /Users/hwanjoo/Desktop/New Unity Project/Library/PackageCache/com.unity.ide.vscode@1.2.3
+      resolvedPath: /Users/hwanjoo/Desktop/Game-Development/New Unity Project/Library/PackageCache/com.unity.ide.vscode@1.2.3
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -491,7 +491,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.24
       source: 1
-      resolvedPath: /Users/hwanjoo/Desktop/New Unity Project/Library/PackageCache/com.unity.test-framework@1.1.24
+      resolvedPath: /Users/hwanjoo/Desktop/Game-Development/New Unity Project/Library/PackageCache/com.unity.test-framework@1.1.24
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -586,7 +586,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.1
       source: 1
-      resolvedPath: /Users/hwanjoo/Desktop/New Unity Project/Library/PackageCache/com.unity.textmeshpro@3.0.1
+      resolvedPath: /Users/hwanjoo/Desktop/Game-Development/New Unity Project/Library/PackageCache/com.unity.textmeshpro@3.0.1
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -745,7 +745,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.18
       source: 1
-      resolvedPath: /Users/hwanjoo/Desktop/New Unity Project/Library/PackageCache/com.unity.timeline@1.2.18
+      resolvedPath: /Users/hwanjoo/Desktop/Game-Development/New Unity Project/Library/PackageCache/com.unity.timeline@1.2.18
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -2739,7 +2739,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: /Users/hwanjoo/Desktop/New Unity Project/Library/PackageCache/com.unity.ext.nunit@1.0.6
+      resolvedPath: /Users/hwanjoo/Desktop/Game-Development/New Unity Project/Library/PackageCache/com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -2800,7 +2800,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 1
-      resolvedPath: /Users/hwanjoo/Desktop/New Unity Project/Library/PackageCache/com.unity.editorcoroutines@1.0.0
+      resolvedPath: /Users/hwanjoo/Desktop/Game-Development/New Unity Project/Library/PackageCache/com.unity.editorcoroutines@1.0.0
       assetPath: Packages/com.unity.editorcoroutines
       name: com.unity.editorcoroutines
       displayName: Editor Coroutines
@@ -2864,7 +2864,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.2
       source: 1
-      resolvedPath: /Users/hwanjoo/Desktop/New Unity Project/Library/PackageCache/com.unity.settings-manager@1.0.2
+      resolvedPath: /Users/hwanjoo/Desktop/Game-Development/New Unity Project/Library/PackageCache/com.unity.settings-manager@1.0.2
       assetPath: Packages/com.unity.settings-manager
       name: com.unity.settings-manager
       displayName: Settings Manager
@@ -2919,5 +2919,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: /Users/hwanjoo/Desktop/New Unity Project/Packages
+m_ProjectPath: /Users/hwanjoo/Desktop/Game-Development/New Unity Project/Packages
 m_EditorVersion: 2020.1.17f1 (9957aee8edc2)

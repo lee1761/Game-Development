@@ -9680,6 +9680,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b9d51299423ff42baa64d8ec2c210d42, type: 3}
+--- !u!1 &356439422
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 891837459}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1 &360300504
 GameObject:
   m_ObjectHideFlags: 0
@@ -16027,6 +16043,36 @@ Transform:
   m_Children: []
   m_Father: {fileID: 839917752}
   m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &489607151
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 489607152}
+  m_Layer: 0
+  m_Name: Pigeon (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &489607152
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 489607151}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1018414338}
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &498094352
 GameObject:
@@ -23287,7 +23333,7 @@ MonoBehaviour:
   itemShop: {fileID: 572568650}
   weaponShop: {fileID: 911179497}
   startZone: {fileID: 2116856736}
-  stage: 1
+  stage: 9
   playTime: 0
   isBattle: 1
   enemyCntA: 0
@@ -24154,7 +24200,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1018414338}
-  m_RootOrder: 12
+  m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &705507993
 GameObject:
@@ -27118,12 +27164,21 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 350cf8c72aad54289aee39802cb25bd4, type: 3}
---- !u!4 &891837459 stripped
+--- !u!4 &891837459
 Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 350cf8c72aad54289aee39802cb25bd4,
     type: 3}
   m_PrefabInstance: {fileID: 891837458}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 356439422}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1018414338}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &899291966 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: b9d51299423ff42baa64d8ec2c210d42,
@@ -28950,7 +29005,7 @@ Transform:
   - {fileID: 561292190}
   - {fileID: 1191622683}
   - {fileID: 891837459}
-  - {fileID: 701861201}
+  - {fileID: 489607152}
   - {fileID: 627818891}
   - {fileID: 1763937081}
   - {fileID: 1615057328}
@@ -28958,6 +29013,7 @@ Transform:
   - {fileID: 72498703}
   - {fileID: 1053934138}
   - {fileID: 2047727581}
+  - {fileID: 701861201}
   m_Father: {fileID: 0}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
