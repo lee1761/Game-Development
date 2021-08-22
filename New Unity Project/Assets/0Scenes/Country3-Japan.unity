@@ -34481,7 +34481,7 @@ MonoBehaviour:
   chinaZone: {fileID: 424989843}
   japanZone: {fileID: 626545511}
   americaZone: {fileID: 680121100}
-  stage: 15
+  stage: 11
   playTime: 0
   isBattle: 1
   enemyCntA: 0

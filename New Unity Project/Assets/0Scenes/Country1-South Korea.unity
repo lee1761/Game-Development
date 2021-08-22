@@ -52552,7 +52552,7 @@ MonoBehaviour:
   chinaZone: {fileID: 558947867}
   japanZone: {fileID: 373125187}
   americaZone: {fileID: 1166775640}
-  stage: 5
+  stage: 51
   playTime: 0
   isBattle: 1
   enemyCntA: 0
