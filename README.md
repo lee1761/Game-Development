@@ -1,6 +1,8 @@
 # Game Development
 
 This is a 3D shooting game.
+The environment is Rundle Mall whcih is a famous street in Adelaide.
+Most of statues were made by 3D scanning technology.
 You can defeat enemies with Weapons and Items.
 
 https://play.unity.com/mg/other/midnight-in-rundel-mall
